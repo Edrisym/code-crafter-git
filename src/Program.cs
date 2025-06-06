@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-
 if (args.Length < 1)
 {
     Console.WriteLine("Please provide a command.");
